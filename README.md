@@ -6,6 +6,8 @@
 
 ---
 
+![Cluster Plot](figures/cluster_plot.png)
+
 ## Overview
 
 This project applies **K-Means++ clustering (k=3)** to classify 34 countries and jurisdictions along two dimensions:
