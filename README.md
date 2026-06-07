@@ -136,9 +136,3 @@ MIT License. Data and methodology are freely reusable with attribution.
 
 ---
 
-## Citation
-
-```
-Han, B. (2025). Global Election Systems: K-Means Clustering Analysis.
-GitHub. https://github.com/YOUR_USERNAME/election-systems-clustering
-```
