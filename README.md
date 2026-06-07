@@ -2,7 +2,7 @@
 
 > **Research Focus:** California (USA) — examining its ballot-counting window and voter ID practices against 33 global comparators.
 
-**[→ View Interactive Visualization](https://simpletruth2026.github.io/why-california-counts-slow/)**
+**[→ View Interactive Visualization](https://simpletruth2026.github.io/why-california-elections-always-count-slow/)**
 
 ---
 
